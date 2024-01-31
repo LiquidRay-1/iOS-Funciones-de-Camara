@@ -1,0 +1,1 @@
+Para poder aprovechar al 100% todas las funcionalidades implementadas es necesario arrancar la app desde un dispositivo iOS físico y no desde el emulador de Xcode, ya que los emuladores no vienen configurados para que se pueda abrir la cámara y mucho menos poder hacer fotos.
